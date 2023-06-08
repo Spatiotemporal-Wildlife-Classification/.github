@@ -1,12 +1,10 @@
-## Hi there 👋
+# Spatiotemporal Wildlife CLassification Organization
 
-<!--
+Welcome to the Spatiotemporal Wildlife Classification (SWC) Organization. This organization was created to serve as a central hub for all tools and processes created in the fulfillment of the thesis study on: A Novel use of Spatiotemporal Metadata to Bolster Wildlife Classification.
 
-**Here are some ideas to get you started:**
+This organization serves to provide open source documentation and insights into the processes used, to further the domain of wildlife classification. 
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Please review the documentation for the organization: https://spatiotemporal-wildlife-classification.github.io/ 
+All relevant information to the organization and each of its repositories can be reached through the documentation. 
+
+This project is open-source and encourages collaboaration in the space of wildlife classification. 
