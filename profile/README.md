@@ -1,4 +1,4 @@
-# Spatiotemporal Wildlife CLassification Organization
+# Spatiotemporal Wildlife Classification Organization
 
 Welcome to the Spatiotemporal Wildlife Classification (SWC) Organization. This organization was created to serve as a central hub for all tools and processes created in the fulfillment of the thesis study on: A Novel use of Spatiotemporal Metadata to Bolster Wildlife Classification.
 
