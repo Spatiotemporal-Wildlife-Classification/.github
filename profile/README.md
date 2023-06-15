@@ -7,4 +7,4 @@ This organization serves to provide open source documentation and insights into 
 Please review the documentation for the organization: https://spatiotemporal-wildlife-classification.github.io/ 
 All relevant information to the organization and each of its repositories can be reached through the documentation. 
 
-This project is open-source and encourages collaboaration in the space of wildlife classification. 
+This project is open-source and encourages collaboration in the space of wildlife classification. 
